@@ -149,7 +149,7 @@ def draw_standing_player():
     glutSolidCube(1)
     glPopMatrix()
     
-    #matha
+    #Head
     glPushMatrix()
     glColor3f(0.1, 0.1, 0.1)
     glTranslatef(0, 0, 100)
